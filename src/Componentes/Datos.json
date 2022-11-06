@@ -1,0 +1,34 @@
+[
+    {
+        "articulo": "Tarjeta 1",
+        "descripcion": "Descripcion Tarjeta 1",
+        "valor": "Baja",
+        "cantidad": 10,
+        "usuario":"Luis",
+        "Imagen":"./recursos/1.jfif"
+    },
+    {
+        "articulo": "Tarjeta 2",
+        "descripcion": "Descripcion Tarjeta 2",
+        "valor": "Media",
+        "cantidad": 50,
+        "usuario":"Jonathan",
+        "Imagen":"./recursos/2.jfif"
+    },
+    {
+        "articulo": "Tarjeta 3",
+        "descripcion": "Descripcion Tarjeta 3",
+        "valor": "Alta",
+        "cantidad": 70,
+        "usuario":"Wendy",
+        "Imagen":"./recursos/3.jpg"
+    },
+    {
+        "articulo": "Tarjeta 3",
+        "descripcion": "Descripcion Tarjeta 3",
+        "valor": "Alta",
+        "cantidad": 70,
+        "usuario":"Wendy",
+        "Imagen":"./recursos/4.jfif"
+    }
+]
